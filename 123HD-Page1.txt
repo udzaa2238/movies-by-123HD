@@ -1,0 +1,92 @@
+{
+"name": "123HD","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"author": "Update 2024",
+"url": "https://udzaa2238.github.io/movies-by-123HD/123HD-Page1.html",
+"ur": "https://drive.google.com/uc?id=1T4Mo-w5413bTyIsp7N_bu7o09RkRb0Bj",
+"groups": [
+	
+  
+		{"name":" หนังใหม่ 2024 ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังใหม่-2024.html","import": false},  
+  
+		{"name":" ซีรี่ย์ใหม่ 2024 ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_ซีรี่ย์ใหม่-2024.html","import": false},  
+
+		{"name":" หนังใหม่ 2023 ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังใหม่-2023.html","import": false},  
+
+		{"name":" ซีรี่ย์ใหม่ 2023 ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_ซีรี่ย์ใหม่-2023.html","import": false},  
+
+		{"name":" หนังใหม่ 2022 ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังใหม่-2022.html","import": false},  
+
+		{"name":" ซีรี่ย์ใหม่ 2022 ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_ซีรี่ย์ใหม่-2022.html","import": false},  
+	
+		{"name":" หนังชนโรง ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังชนโรง.html","import": false},  
+
+		{"name":" หนัง Netflix ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_ดูหนัง-netflix.html","import": false},  
+	
+		{"name":" หนัง Marvel ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_รวมหนัง-marvel.html","import": false},  
+	
+		{"name":" หนัง HBO ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนัง-hbo.html","import": false},  
+	
+		{"name":" หนังภาคต่อ ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังภาคต่อ.html","import": false},  
+	
+		{"name":" หนังซอมบี้ ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังซอมบี้.html","import": false},  
+	
+		{"name":" หนังจีน ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังจีน.html","import": false},  
+	
+		{"name":" หนังเกาหลี ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังเกาหลี.html","import": false},  
+	
+		{"name":" หนังญี่ปุ่น ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังญี่ปุ่น.html","import": false},  
+	
+		{"name":" หนังอินเดีย ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังอินเดีย.html","import": false},  
+	
+		{"name":" หนังไทย ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนังไทย.html","import": false},  
+	
+		{"name":" เดอะมูฟวี่ ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_the-movie-เดอะมูฟวี่.html","import": false},  
+	
+		{"name":" หนัง 18+ ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_หนัง-18.html","import": false},  
+	
+		{"name":" ซีรี่ย์พากย์ไทย ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_ซีรี่ย์พากย์ไทย.html","import": false},  
+	
+		{"name":" ซีรีย์วาย ","image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+	"url": "https://udzaa2238.github.io/movies-by-123HD/123-hd_ซีรีย์วาย.html","import": false},  
+
+
+	
+]
+}
+
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>ผู้เฒ่าพเนจร</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ผู้เฒ่าพเนจร"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>
